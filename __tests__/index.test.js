@@ -240,7 +240,7 @@ describe('lotsOfArt', ()=>{
             "Amedeo Modigliani",
             'Rene Magritte',
             'Salvador Dali',
-            'Vincent van Dough',
+            'Vincent Van Gogh',
             'Gustav Klimt',
             'Hieronymus Bosch',
             'Kazimir Malevich',
